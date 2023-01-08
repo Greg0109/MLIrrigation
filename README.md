@@ -1,0 +1,1 @@
+Dataset taken from [Kaggle](https://www.kaggle.com/datasets/harshilpatel355/autoirrigationdata?resource=download)
